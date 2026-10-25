@@ -1,4 +1,4 @@
-# Follow Australia’s travel dollar
+# Visitor-Spending-in-Australia
 
 By Utkarsh Vaishnav · FIT3179 · 35022981
 
