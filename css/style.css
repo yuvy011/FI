@@ -1,5 +1,5 @@
 /* Page theme. Chart palettes and marks are in the readable json/ files. */
-@import url('../vendor/fonts/fonts.css');
+@import url('fonts/fonts.css');
 :root {
   --paper: #e8eff0;
   --panel: #ffffff;
